@@ -1,4 +1,7 @@
 Hello!
+<<<<<<< HEAD
 
 BLAAAAAAAAAAAAAAAA
 xxx
+=======
+>>>>>>> parent of b5a71ca... Adde new line
